@@ -1,0 +1,98 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+
+}
+
+header {
+
+    border-bottom: solid 2px rgb(251, 242, 53);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(251, 242, 53);
+
+}
+
+.textos {
+    background: rgb(78, 126, 190);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+h1 {
+    font-size: 40px;
+
+}
+
+
+p {
+    font-size: 20px;
+
+
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-videos2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-videos2 img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.categoria-videos2 img:hover {
+    opacity: 1.0;
+    border: 1px solid white;
+}
+
+.categoria-DrTikey {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+
+.categorias {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid white;
+}
+
+.categorias h2 {
+    color: rgb(251, 242, 53);
+}
